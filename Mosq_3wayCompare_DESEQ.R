@@ -313,4 +313,4 @@ ggplot(GTPcounts, aes(Diet.Group, expression, fill=Condition))+
   facet_wrap(~gene, scales="free_y")+
   theme(legend.position = "none", axis.text = element_text(size=12))+
   scale_fill_manual(values=c("#377EB8","#A6761D","#E6AB02"))+
-  labs(x = "Condition", y="Expression (log2)", fill="Group",title="Small GTPase mediated signal transduction DE genes")
+  labs(x = "Condition", y="Expression (log2)", fill="Group",title="Interesting DE gene group")
