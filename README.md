@@ -1,7 +1,7 @@
 # 3Group_mosquitoRNAseq
 RNAseq differential expression analysis of Aedes Agypti mosquito samples 
 
-Input: raw counts data, and a relevant GTF reference genome
+Input: raw counts data of 3 experimental groups (once of which is a control) and a relevant GTF reference genome
 
 Output:
 Raw counts, normalized counts, log-transformed counts box plots
