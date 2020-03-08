@@ -1,4 +1,4 @@
-# 3Group_mosquitoRNAseq
+# 3Group_RNAseq
 RNAseq differential expression analysis of Aedes Agypti mosquito samples 
 
 Input: 
