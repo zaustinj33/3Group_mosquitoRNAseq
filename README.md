@@ -1,11 +1,11 @@
-# 3Group_RNAseq
-RNAseq differential expression analysis of Aedes Agypti mosquito samples 
+# 3GroupRNAseq
+### RNAseq differential expression analysis of Aedes Agypti mosquito samples 
 
-Input: 
+#### Input: 
 raw counts data of 3 experimental groups (once of which is a control) and a relevant GTF reference genome
 
 
-Output:
+#### Output:
 
 Raw counts, normalized counts, log-transformed counts box plots
 
